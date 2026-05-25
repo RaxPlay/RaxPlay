@@ -4,11 +4,11 @@ My name is Raxon, I'm originally from Cuba 🇨🇺. I'm located in the USA at t
 
 I'm working on improving my skills every day 📈.
 
-I'm currently learning backend web development 📚.
+I'm currently learning Full-Stack development📚.
 
-I'm proeficient in React, Tailwind.css, JavaScript, HTML, CSS 🎯.
+I'm proeficient in React, PostgreSQL, JavaScript, HTML, CSS, and TailwindCSS 🎯.
 
-Reach me out at LinkedI and/or Fiverr 💬.
+Reach me out at LinkedIn and/or Fiverr 💬.
 <!--
 **RaxPlay/RaxPlay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
